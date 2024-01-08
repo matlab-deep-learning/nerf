@@ -4,6 +4,8 @@
 
 MATLAB&reg; implementation of optimizing a neural representation for a single scene called [NeRF](https://www.matthewtancik.com/nerf) and rendering new views.
 
+https://github.com/tohruk/nerf/assets/93125/e8308d96-16ab-4297-ba6a-a3081389818e
+
 ## Quick demo  
 
 1. Open `nerf.prj` on MATLAB.
