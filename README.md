@@ -1,10 +1,12 @@
 # NeRF - Neural Radiance Fields
 
-[![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/####-file-exchange-title)  
+[![View NeRF - Neural Radiance Fields on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://jp.mathworks.com/matlabcentral/fileexchange/157366-nerf-neural-radiance-fields)
 
 MATLAB&reg; implementation of optimizing a neural representation for a single scene called [NeRF](https://www.matthewtancik.com/nerf) and rendering new views.
 
-https://github.com/tohruk/nerf/assets/93125/e8308d96-16ab-4297-ba6a-a3081389818e
+![Novel view synthesis result](results/test_x_pipe_720x1280.jpg)
+
+<https://github.com/tohruk/nerf/assets/93125/e8308d96-16ab-4297-ba6a-a3081389818e>
 
 ## Quick demo  
 
@@ -31,6 +33,7 @@ Requires MATLAB release R2023a or newer
 - [Computer Vision Toolbox&trade;](https://www.mathworks.com/products/computer-vision.html)
 - [Lidar Toolbox&trade;](https://www.mathworks.com/products/lidar.html)
 - [Parallel Computing Toolbox&trade;](https://www.mathworks.com/products/parallel-computing.html)
+- [Simulink&reg; 3D Animation&trade;](https://www.mathworks.com/products/3d-animation.html)
 - [Robotics System Toolbox&trade;](https://www.mathworks.com/products/robotics.html) (Optional)
 
 ## License
@@ -42,4 +45,3 @@ The license is available in the [License.txt](License.txt) file in this GitHub r
 [MATLAB Central](https://www.mathworks.com/matlabcentral)
 
 Copyright 2023 The MathWorks, Inc.
-
