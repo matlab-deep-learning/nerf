@@ -12,6 +12,15 @@ MATLAB&reg; implementation of optimizing a neural representation for a single sc
 ## Quick demo  
 
 1. Open `nerf.prj` on MATLAB.
+2. Run `NeRF_Tutorial.mlx` to learn how a NeRF pretrained model works.
+
+   ```matlab
+   >> edit NeRF_Tutorial.mlx
+   ```
+
+## Training  
+
+1. Open `nerf.prj` on MATLAB.
 2. Run `NeRF_CameraPoseEstimationUsingAprilTag.mlx` to perform camera calibration and pose estimation.
 
    ```matlab
