@@ -1,7 +1,6 @@
 # NeRF - Neural Radiance Fields
 
 [![View NeRF - Neural Radiance Fields on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://jp.mathworks.com/matlabcentral/fileexchange/157366-nerf-neural-radiance-fields)
-
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=matlab-deep-learning/nerf&project=nerf.prj&file=src/NeRF_Tutorial.mlx)
 
 MATLAB&reg; implementation of optimizing a neural representation for a single scene called [NeRF](https://www.matthewtancik.com/nerf) and rendering new views.
