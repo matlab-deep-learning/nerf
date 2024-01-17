@@ -7,8 +7,6 @@ MATLAB&reg; implementation of optimizing a neural representation for a single sc
 
 ![Novel view synthesis result](results/test_x_pipe_720x1280.jpg)
 
-<https://github.com/tohruk/nerf/assets/93125/e8308d96-16ab-4297-ba6a-a3081389818e>
-
 ## Quick demo  
 
 1. Open `nerf.prj` on MATLAB.
@@ -48,7 +46,7 @@ Requires MATLAB release R2023a or newer
 
 ## License
 
-The license is available in the [License.txt](License.txt) file in this GitHub repository.
+The license is available in the [License.txt](license.txt) file in this GitHub repository.
 
 ## Community Support
 
